@@ -24,6 +24,8 @@ a:hover{
 
 /*Footer*/
 #footer{
+  position:fixed;
+  /*float:bottom*/
   clear:both;
   width:100%;
   border-top: 1px solid black
@@ -32,9 +34,10 @@ a:hover{
 .post-list {
   margin-left: 0;
   float:left;
-  list-style:none;
+  list-style-type:none
 }
 .post-list > li{
+
     margin-bottom: 30px;
 }
 .post-meta {

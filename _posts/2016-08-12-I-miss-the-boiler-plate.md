@@ -1,0 +1,1 @@
+The Jekyll documentation has a set of five commands to get a site up and running quickly. They create a very pleasing layout with the Minima theme. That didn't feel like learning though, so I threw out everything and started again. My site looks terrible but this is how we learn right?
