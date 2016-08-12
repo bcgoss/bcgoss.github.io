@@ -1,0 +1,14 @@
+title: Personal blog of Bryan Goss
+email: bcgoss@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am Bryan Goss, a new Developer learning Ruby, Rails and JavaScript at
+  the Turing School of Software and Design. I also taught myself C++
+  Java and a small amount of Python
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+twitter_username: gossbc
+github_username:  bcgoss
+
+# Build settings
+markdown: kramdown
+theme: minima

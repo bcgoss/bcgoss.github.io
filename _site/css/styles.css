@@ -1,0 +1,13 @@
+/*Basics*/
+body {
+  font: 400 16px/1.5 Helvetica, sans-serif;
+}
+.post-meta {
+  font-size: 14px;
+  color:#808080;
+}
+
+.post-link {
+  display:block;
+  font-size:28px;
+}
