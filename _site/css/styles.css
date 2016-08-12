@@ -2,6 +2,41 @@
 body {
   font: 400 16px/1.5 Helvetica, sans-serif;
 }
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1756a9;
+}
+
+a:hover{
+  color: #111;
+  text-decoration: underline;
+}
+
+/*Footer*/
+#footer{
+  clear:both;
+  width:100%;
+  border-top: 1px solid black
+}
+/*Posts*/
+.post-list {
+  margin-left: 0;
+  float:left;
+  list-style:none;
+}
+.post-list > li{
+    margin-bottom: 30px;
+}
 .post-meta {
   font-size: 14px;
   color:#808080;
@@ -10,4 +45,8 @@ body {
 .post-link {
   display:block;
   font-size:28px;
+}
+
+.post-title {
+
 }
