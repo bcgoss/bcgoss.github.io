@@ -21,14 +21,29 @@ a:hover{
   color: #111;
   text-decoration: underline;
 }
-
+/*Header*/
+#header{
+  position:fixed;
+  top: 0px;
+  clear:both;
+  width:100%;
+  border-bottom: 1px solid black
+}
 /*Footer*/
 #footer{
   position:fixed;
-  /*float:bottom*/
+  bottom:0%;
   clear:both;
   width:100%;
   border-top: 1px solid black
+}
+/*Main content*/
+.container {
+  position:absolute;
+  background-color: blue;
+  margin-left: 10%;
+  margin-right: 10%;
+  float:left;
 }
 /*Posts*/
 .post-list {
