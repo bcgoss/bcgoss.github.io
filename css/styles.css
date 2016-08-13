@@ -40,7 +40,6 @@ a:hover{
 /*Main content*/
 .container {
   position:absolute;
-  background-color: blue;
   margin-left: 10%;
   margin-right: 10%;
   float:left;
